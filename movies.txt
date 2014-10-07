@@ -5,4 +5,9 @@ Jaws
 Jaws2
 You Don't Mess With The Zohan
 Dumb and dumber
-fJack and Jill
+<<<<<<< HEAD
+Jack and Jill er helluð maður
+=======
+Jack and Jill
+Debbie does dallas
+>>>>>>> 745efe8c6a4ead0b6225043e708ffc17d51ed4b9
