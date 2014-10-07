@@ -6,8 +6,13 @@ Jaws2
 You Don't Mess With The Zohan
 Dumb and dumber
 <<<<<<< HEAD
+<<<<<<< HEAD
 Jack and Jill er helluð maður
 =======
 Jack and Jill
+=======
+Rush Hour 2
+Jack and Jill -- Ekki gott stuff
+>>>>>>> 86ed0d5443c364de32716fb5a5ff1fe15aa62ae5
 Debbie does dallas
 >>>>>>> 745efe8c6a4ead0b6225043e708ffc17d51ed4b9
