@@ -1,4 +1,4 @@
 Movies
 ======
 
-Þetta eru okkar uppáhalds bíómyndir :)
+Inline `code` has `back-ticks around` it.
