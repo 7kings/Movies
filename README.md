@@ -1,7 +1,7 @@
 # Development Manual
 
 
-### Access to scource control
+### How to get the project running on a fresh machine
 ```
 1. Generate SSH Key
     - command: ssh-keygen
@@ -9,11 +9,13 @@
     - command: cat id_rsa.pub
     - copy the key
     - go to Github -> settings -> SSH keys -> add SSH key
-
+```
+```
 2. Fork the project to your Github
-
+```
+```
 3. Clone the repository to your development machine
     - command: git clone *you-forked-repository-SSH-clone_URL*
 ```
 
-### Next
+
